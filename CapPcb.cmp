@@ -1,0 +1,52 @@
+Cmp-Mod V01 Created by Cvpcb (2014-08-31 BZR 5107)-product   date = ons  5 aug 2015 15:28:55
+
+BeginCmp
+TimeStamp = /55C20D1A;
+Reference = C1;
+ValeurCmp = 470uF, 63V;
+IdModule  = Capacitors_ThroughHole:C_Radial_D12.5_L25_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C20DC6;
+Reference = C2;
+ValeurCmp = 470uF, 63V;
+IdModule  = Capacitors_ThroughHole:C_Radial_D12.5_L25_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C20DEE;
+Reference = C3;
+ValeurCmp = 470uF, 63V;
+IdModule  = Capacitors_ThroughHole:C_Radial_D12.5_L25_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C20E16;
+Reference = P1;
+ValeurCmp = +;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C20E6C;
+Reference = P2;
+ValeurCmp = -;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C20FDD;
+Reference = P3;
+ValeurCmp = +;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C20FE3;
+Reference = P4;
+ValeurCmp = -;
+IdModule  = Connect:1pin;
+EndCmp
+
+EndListe
