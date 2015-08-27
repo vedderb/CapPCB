@@ -1,4 +1,4 @@
-(kicad_pcb (version 4) (host pcbnew "(2014-08-31 BZR 5107)-product")
+(kicad_pcb (version 4) (host pcbnew "(2014-08-29 BZR 5106)-product")
 
   (general
     (links 8)
@@ -181,7 +181,7 @@
     (fp_text reference C1 (at 1.778 0 360) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value "470uF, 63V" (at 2.5 7.6 270) (layer F.Fab) hide
+    (fp_text value "560uF, 63V" (at 2.5 7.6 270) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 2.575 -6.25) (end 2.575 6.25) (layer F.SilkS) (width 0.15))
@@ -267,7 +267,7 @@
     (fp_text reference C2 (at 1.778 0 360) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value "470uF, 63V" (at 2.5 7.6 270) (layer F.Fab) hide
+    (fp_text value "560uF, 63V" (at 2.5 7.6 270) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 2.575 -6.25) (end 2.575 6.25) (layer F.SilkS) (width 0.15))
@@ -353,7 +353,7 @@
     (fp_text reference C3 (at 1.778 0 360) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value "470uF, 63V" (at 2.5 7.6 270) (layer F.Fab) hide
+    (fp_text value "560uF, 63V" (at 2.5 7.6 270) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 2.575 -6.25) (end 2.575 6.25) (layer F.SilkS) (width 0.15))
